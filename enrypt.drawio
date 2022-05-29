@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-29T11:01:46.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="OIvbhF0RjU3TmAp3tMaH" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-29T11:02:53.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="yYxPtUwsWNjQ4pK8ZT-p" version="18.1.3" type="github">
   <diagram id="kMGO6WPoYXXGm9ZPo5Ty" name="Page-1">
     <mxGraphModel dx="710" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -149,6 +149,15 @@
         </mxCell>
         <mxCell id="a9hxf8H1GxBE0yqZZdkx-43" value="第一位验证失败" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a9hxf8H1GxBE0yqZZdkx-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a9hxf8H1GxBE0yqZZdkx-11" target="a9hxf8H1GxBE0yqZZdkx-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="220" as="sourcePoint" />
+            <mxPoint x="360" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a9hxf8H1GxBE0yqZZdkx-45" value="重置状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
