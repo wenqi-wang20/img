@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T07:43:54.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="XiQhixzsUImTKtiWVKQB" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-02T07:44:10.336Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="B693GrLwQKUlBPOQ49ZW" version="21.6.6" type="github">
   <diagram name="第 1 页" id="lcB3Py8_bxgnRQIrlnSY">
     <mxGraphModel dx="1611" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -156,10 +156,10 @@
         <mxCell id="EWjFlToL_68mCmNuSYQx-58" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.25,0],[0.75,0],[1,0.25],[1,0.75],[0.75,1],[0.25,1],[0,0.75],[0,0.25]];polyline=0;" vertex="1" parent="1">
           <mxGeometry x="830" y="320" width="70" height="76.62" as="geometry" />
         </mxCell>
-        <mxCell id="EWjFlToL_68mCmNuSYQx-59" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
+        <mxCell id="EWjFlToL_68mCmNuSYQx-59" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
           <mxGeometry x="1030" y="50" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EWjFlToL_68mCmNuSYQx-60" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
+        <mxCell id="EWjFlToL_68mCmNuSYQx-60" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
           <mxGeometry x="1030" y="334.12" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EWjFlToL_68mCmNuSYQx-62" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
